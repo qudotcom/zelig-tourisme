@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Lato:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-kech-sand text-kech-dark font-sans antialiased;
+  background-image: url('https://www.transparenttextures.com/patterns/arabesque.png');
+  background-attachment: fixed;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+::-webkit-scrollbar-thumb {
+  background: #C85A3F; 
+  border-radius: 10px;
+}
+.glass-panel {
+  @apply bg-white/70 backdrop-blur-md border border-white/50 shadow-glass;
+}

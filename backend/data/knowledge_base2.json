@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Marrakech - Jemaa el-Fna",
+    "category": "Lieu Incontournable",
+    "location": "Marrakech",
+    "description": "Le cœur battant de Marrakech. Une place classée au patrimoine mondial de l'UNESCO, célèbre pour ses conteurs, ses charmeurs de serpents, ses musiciens et ses stands de nourriture nocturnes. C'est un théâtre à ciel ouvert.",
+    "safety_tips": "Attention aux pickpockets dans la foule. Négociez toujours le prix avant de prendre une photo avec des animaux ou des artistes. Évitez les tatouages au henné noir (risques d'allergie).",
+    "budget": "Gratuit pour se promener, 50-100 MAD pour un repas"
+  },
+  {
+    "name": "Jardin Majorelle",
+    "category": "Culture & Nature",
+    "location": "Marrakech",
+    "description": "Un jardin botanique de deux hectares et demi, conçu par l'artiste expatrié français Jacques Majorelle, restauré par Yves Saint Laurent. Célèbre pour son bleu intense 'Bleu Majorelle' et sa collection de cactus.",
+    "safety_tips": "Réservez vos billets en ligne à l'avance pour éviter les longues files d'attente sous le soleil.",
+    "budget": "150 MAD (Entrée standard)"
+  },
+  {
+    "name": "Fès - La Médina (Fes el-Bali)",
+    "category": "Histoire",
+    "location": "Fès",
+    "description": "La plus grande zone piétonne urbaine au monde. Un labyrinthe médiéval de plus de 9000 ruelles. Célèbre pour ses tanneries Chouara, la mosquée Al Quaraouiyine (plus vieille université du monde) et ses madrasas.",
+    "safety_tips": "Il est très facile de se perdre. Si cela arrive, payez un petit guide officiel ou demandez aux commerçants de vous indiquer 'Bab Bou Jeloud' (la porte principale).",
+    "budget": "Variable"
+  },
+  {
+    "name": "Chefchaouen",
+    "category": "Ville",
+    "location": "Nord du Maroc",
+    "description": "La perle bleue. Une ville nichée dans les montagnes du Rif, célèbre pour ses bâtiments lavés de bleu. Idéale pour la photographie et la randonnée vers la cascade d'Akchour.",
+    "safety_tips": "Ville très sûre et détendue. Soyez respectueux en prenant des photos des habitants.",
+    "budget": "Moyen"
+  },
+  {
+    "name": "Désert de Merzouga (Erg Chebbi)",
+    "category": "Aventure",
+    "location": "Sud-Est",
+    "description": "Dunes de sable impressionnantes pouvant atteindre 150m de haut. Activités : Balade à dos de chameau, nuit en bivouac sous les étoiles, 4x4.",
+    "safety_tips": "Ne partez jamais seul dans les dunes sans guide. Prévoyez beaucoup d'eau. Les nuits peuvent être très froides en hiver.",
+    "budget": "400-1500 MAD par nuit selon le luxe du camp"
+  },
+  {
+    "name": "Gastronomie Marocaine - Étiquette",
+    "category": "Culture",
+    "location": "Tout le Maroc",
+    "description": "La cuisine marocaine est riche (Tajine, Couscous, Pastilla). Le thé à la menthe est un rituel d'hospitalité qu'il ne faut pas refuser.",
+    "safety_tips": "Buvez toujours de l'eau en bouteille capsulée. Évitez les glaçons dans les petits établissements de rue.",
+    "budget": "50-200 MAD"
+  },
+  {
+    "name": "Urgences & Sécurité",
+    "category": "Sécurité",
+    "location": "Tout le Maroc",
+    "description": "Numéros importants : Police (19), Pompiers/Ambulance (15), Gendarmerie Royale (177). Le Maroc est politiquement stable et sûr pour les touristes.",
+    "safety_tips": "En cas de faux guide insistant, dites fermement 'Non merci' et continuez à marcher. Ne suivez pas d'inconnus dans des ruelles isolées.",
+    "budget": "N/A"
+  },
+  {
+    "name": "Transport - Petits Taxis",
+    "category": "Transport",
+    "location": "Villes (Marrakech, Casa, Rabat)",
+    "description": "Les petits taxis (couleurs différentes selon la ville : Rouge à Casa, Beige à Marrakech, Bleu à Rabat) sont pour les trajets urbains.",
+    "safety_tips": "Exigez toujours que le chauffeur active le compteur ('Compteur, s'il vous plaît'). Si refus, changez de taxi.",
+    "budget": "10-50 MAD course urbaine"
+  }
+]

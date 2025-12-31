@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Marrakech - Place Jemaa el-Fna",
+    "category": "Incontournable",
+    "location": "Marrakech",
+    "description": "Le cœur battant de la ville. Le jour : jus d'orange frais (4-10 Dhs), dresseurs de singes (à éviter). La nuit : immense restaurant à ciel ouvert, musiciens Gnaoua, conteurs. Ambiance UNESCO unique au monde.",
+    "safety_tips": "Pickpockets actifs. Ne faites jamais de photo avec un animal sans négocier le prix AVANT (risque d'arnaque à 200 Dhs). Évitez le henné noir (chimique).",
+    "budget": "Promenade gratuite / Dîner 70 MAD"
+  },
+  {
+    "name": "Marrakech - Jardin Majorelle & Musée YSL",
+    "category": "Culture",
+    "location": "Marrakech (Guéliz)",
+    "description": "Jardin botanique 'Bleu Majorelle' créé par Jacques Majorelle, sauvé par YSL. Cactus géants, bassins, musée berbère. Le Musée Yves Saint Laurent adjacent expose ses créations.",
+    "safety_tips": "Achat de billets EN LIGNE OBLIGATOIRE (plus de guichet sur place). Arrivez à 8h30 pour éviter la foule.",
+    "budget": "150 MAD (Jardin) / 300 MAD (Combiné)"
+  },
+  {
+    "name": "Marrakech - Palais de la Bahia",
+    "category": "Architecture",
+    "location": "Marrakech (Mellah)",
+    "description": "Chef-d'œuvre du 19ème siècle. 150 pièces, plafonds en bois de cèdre peint (zouac), patios en marbre et zellige. Construit pour le grand vizir Ba Ahmed.",
+    "safety_tips": "Il y a peu d'explications sur place, prendre un guide officiel à l'entrée (150-200 MAD) enrichit la visite.",
+    "budget": "70 MAD"
+  },
+  {
+    "name": "Marrakech - Palais El Badi",
+    "category": "Histoire",
+    "location": "Marrakech",
+    "description": "Les ruines grandioses du 'Palais de l'Incomparable' (16ème siècle). Abrite le minbar de la Koutoubia. Immense cour avec bassins et cigognes qui nichent sur les murs.",
+    "safety_tips": "Très exposé au soleil, prévoir chapeau et eau. La vue depuis la terrasse offre un panorama sur la ville.",
+    "budget": "70 MAD"
+  },
+  {
+    "name": "Marrakech - La Koutoubia",
+    "category": "Monument",
+    "location": "Marrakech",
+    "description": "L'emblème de la ville. Minaret de 77m, visible à 30km. Architecture almohade qui a inspiré la Giralda de Séville. Interdite aux non-musulmans, mais les jardins sont superbes.",
+    "safety_tips": "Lieu de culte, respectez le silence lors de l'appel à la prière. Les jardins sont un bon spot pour se reposer.",
+    "budget": "Gratuit (Extérieur)"
+  },
+  {
+    "name": "Marrakech - Tombeaux Saadiens",
+    "category": "Histoire",
+    "location": "Marrakech (Kasbah)",
+    "description": "Nécropole royale cachée pendant des siècles. La salle des douze colonnes est un joyau de marbre de Carrare et d'or pur. Lieu de repos des sultans saadiens.",
+    "safety_tips": "La file d'attente pour voir la salle principale peut être longue (30-45min). Allez-y tôt le matin.",
+    "budget": "70 MAD"
+  },
+  {
+    "name": "Marrakech - Médersa Ben Youssef",
+    "category": "Architecture",
+    "location": "Marrakech (Médina)",
+    "description": "Ancienne école coranique, la plus grande du Maroc. Chef-d'œuvre absolu du zellige, du plâtre sculpté et du bois de cèdre. Récemment rénovée.",
+    "safety_tips": "Lieu très photogénique, patience requise pour les photos sans foule.",
+    "budget": "50 MAD"
+  },
+  {
+    "name": "Fès - La Médina (Fes el-Bali)",
+    "category": "Patrimoine",
+    "location": "Fès",
+    "description": "La plus grande zone piétonne au monde. 9400 ruelles. Capitale spirituelle et artisanale. Un voyage temporel au Moyen-Âge.",
+    "safety_tips": "GPS inefficace. Repérez les portes (Bab Bou Jeloud). Si perdu, payez un enfant 10-20 MAD pour vous ramener à une porte connue.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Fès - Tanneries Chouara",
+    "category": "Artisanat",
+    "location": "Fès",
+    "description": "Le lieu le plus emblématique. Cuves de teintures naturelles vues depuis les terrasses des magasins de cuir. Odeur forte (ammoniac/fiente de pigeon).",
+    "safety_tips": "Acceptez la menthe à l'entrée pour l'odeur. L'accès est 'gratuit' mais on attendra un pourboire ou un achat.",
+    "budget": "Pourboire 20 MAD"
+  },
+  {
+    "name": "Fès - Université Al Quaraouiyine",
+    "category": "Histoire",
+    "location": "Fès",
+    "description": "Fondée en 859 par Fatima Al-Fihriya, c'est la plus ancienne université au monde encore en activité. Bibliothèque magnifique.",
+    "safety_tips": "Entrée réservée aux musulmans. On peut voir la cour intérieure depuis les portes ouvertes.",
+    "budget": "N/A"
+  },
+  {
+    "name": "Meknès - Bab Mansour",
+    "category": "Monument",
+    "location": "Meknès",
+    "description": "L'une des plus belles portes du monde, entrée de la ville impériale du Sultan Moulay Ismail. Zelliges verts et inscriptions coraniques.",
+    "safety_tips": "La ville est plus calme que Fès, profitez-en pour visiter le marché couvert juste à côté.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Volubilis (Walili)",
+    "category": "Archéologie",
+    "location": "Près de Meknès",
+    "description": "Ruines romaines les mieux conservées du Maroc. Mosaïques au sol exceptionnelles, arc de triomphe, basilique. Ancienne capitale de la Maurétanie Tingitane.",
+    "safety_tips": "Aucune ombre sur le site. En été, c'est une fournaise. Prenez beaucoup d'eau et un chapeau.",
+    "budget": "70 MAD"
+  },
+  {
+    "name": "Chefchaouen",
+    "category": "Photo & Détente",
+    "location": "Rif (Nord)",
+    "description": "La Perle Bleue. Ville de montagne aux murs peints à la chaux bleue. Ambiance andalouse, calme. Kasbah sur la place Uta el-Hammam.",
+    "safety_tips": "Très sûr. Attention aux vendeurs de 'kif' (cannabis) dans les collines (illégal).",
+    "budget": "Moyen"
+  },
+  {
+    "name": "Cascades d'Akchour",
+    "category": "Nature",
+    "location": "Près de Chefchaouen",
+    "description": "Randonnée magnifique vers la Grande Cascade ou le Pont de Dieu (arche naturelle). Eau turquoise cristalline.",
+    "safety_tips": "Chaussures de marche nécessaires. Évitez les tongs. 2h de marche aller. Baignade très fraîche !",
+    "budget": "Gratuit (Parking 10 MAD)"
+  },
+  {
+    "name": "Tanger - Grottes d'Hercule",
+    "category": "Nature",
+    "location": "Tanger (Cap Spartel)",
+    "description": "Grottes naturelles où la mer pénètre. L'ouverture vers l'océan a la forme inversée de la carte de l'Afrique. Mythologique.",
+    "safety_tips": "Très touristique. Évitez le week-end si possible. Profitez de la vue sur le phare du Cap Spartel à côté.",
+    "budget": "60 MAD"
+  },
+  {
+    "name": "Tanger - Café Hafa",
+    "category": "Détente",
+    "location": "Tanger",
+    "description": "Café mythique en terrasse depuis 1921. Vue imprenable sur le détroit de Gibraltar et l'Espagne. Fréquenté par les Rolling Stones et Paul Bowles.",
+    "safety_tips": "On y boit du thé à la menthe et on mange de la soupe Bissara. Service lent et détendu.",
+    "budget": "Pas cher"
+  },
+  {
+    "name": "Casablanca - Mosquée Hassan II",
+    "category": "Incontournable",
+    "location": "Casablanca",
+    "description": "Construite sur l'océan. Minaret de 210m (le plus haut du monde à sa construction). Salle de prière immense, toit ouvrant, laser vers la Mecque.",
+    "safety_tips": "Visites guidées à horaires fixes (souvent 9h, 10h, 11h, 15h). Tenue respectueuse exigée.",
+    "budget": "130 MAD"
+  },
+  {
+    "name": "Rabat - Tour Hassan & Mausolée",
+    "category": "Histoire",
+    "location": "Rabat",
+    "description": "Minaret inachevé du 12ème siècle entouré de 200 colonnes. Juste en face, le Mausolée Mohammed V en marbre blanc, gardé par la Garde Royale.",
+    "safety_tips": "Entrée gratuite. Tenue correcte pour entrer dans le mausolée. Photos autorisées avec les gardes.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Rabat - Kasbah des Oudayas",
+    "category": "Promenade",
+    "location": "Rabat",
+    "description": "Forteresse surplombant l'océan et le fleuve Bouregreg. Ruelles bleues et blanches, jardin andalou calme. Café Maure pour un thé avec vue.",
+    "safety_tips": "Lieu très sécurisé et paisible. Idéal pour le coucher de soleil.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Essaouira - La Skala",
+    "category": "Monument",
+    "location": "Essaouira",
+    "description": "Remparts fortifiés face à l'Atlantique avec ses canons en bronze. Lieu de tournage de Game of Thrones (Astapor).",
+    "safety_tips": "Attention au vent fort toute l'année. Les mouettes sont agressives si vous avez de la nourriture.",
+    "budget": "10-20 MAD"
+  },
+  {
+    "name": "Essaouira - Port de Pêche",
+    "category": "Gastronomie",
+    "location": "Essaouira",
+    "description": "Arrivée des bateaux bleus le matin. On peut acheter son poisson frais et le faire griller directement dans les stands à côté.",
+    "safety_tips": "Négociez le prix de la grillade avant de vous asseoir.",
+    "budget": "80-150 MAD selon le poisson"
+  },
+  {
+    "name": "Agadir - Souk El Had",
+    "category": "Shopping",
+    "location": "Agadir",
+    "description": "Le plus grand souk urbain d'Afrique (plus de 6000 boutiques). On y trouve tout : épices, cuir, vêtements, électronique, fruits.",
+    "safety_tips": "Fermé le Lundi. Négociation obligatoire. Plus aéré et organisé que les souks de Marrakech.",
+    "budget": "Variable"
+  },
+  {
+    "name": "Taghazout",
+    "category": "Surf",
+    "location": "Nord d'Agadir",
+    "description": "Village de pêcheurs devenu capitale du surf. Spots mondiaux (Anchor Point). Ambiance hippie-chic, coworking, yoga.",
+    "safety_tips": "Attention aux oursins sur certains spots. Louez votre matériel sur place.",
+    "budget": "Cours de surf : 250 MAD"
+  },
+  {
+    "name": "Legzira",
+    "category": "Nature",
+    "location": "Sidi Ifni (Sud)",
+    "description": "Plage célèbre pour ses immenses arches naturelles en roche rouge s'avançant dans l'océan. Paysage martien.",
+    "safety_tips": "Baignade dangereuse (courants forts). Vérifiez les marées pour passer sous les arches.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Ouarzazate - Aït Ben Haddou",
+    "category": "Cinéma",
+    "location": "Ouarzazate",
+    "description": "Ksar en terre crue (pisé) classé UNESCO. Décor de Gladiator, Lawrence d'Arabie, GOT. Architecture pré-saharienne iconique.",
+    "safety_tips": "Grimpez au sommet pour la vue. Allez-y tôt le matin pour la lumière et éviter les bus de touristes.",
+    "budget": "Donation 10-20 MAD"
+  },
+  {
+    "name": "Gorges du Todra",
+    "category": "Nature",
+    "location": "Tinghir",
+    "description": "Falaises calcaires de 300m de haut séparées par seulement 10m. Paradis des grimpeurs. Une rivière coule au milieu.",
+    "safety_tips": "La route est bonne. Il fait frais dans le canyon même en été.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Merzouga - Erg Chebbi",
+    "category": "Désert",
+    "location": "Merzouga",
+    "description": "Dunes de sable orange vif. Activités : Nuit en bivouac, dromadaire, 4x4, sandboard. Ciel étoilé incroyable.",
+    "safety_tips": "L'été (Juin-Août) est dangereux (45°C+). Meilleurs mois : Octobre à Avril. Ne partez pas seul dans les dunes.",
+    "budget": "Bivouac : 400 à 2000 MAD"
+  },
+  {
+    "name": "Ouzoud",
+    "category": "Nature",
+    "location": "Moyen Atlas",
+    "description": "Chutes d'eau de 110m. Baignade possible. Singes magots sauvages. On peut manger un tajine les pieds dans l'eau.",
+    "safety_tips": "Attention aux singes voleurs. Le chemin est en pente, prévoir bonnes chaussures.",
+    "budget": "Gratuit / Bateau 20 MAD"
+  },
+  {
+    "name": "Toubkal",
+    "category": "Randonnée",
+    "location": "Imlil (Haut Atlas)",
+    "description": "Toit de l'Afrique du Nord (4167m). Ascension en 2 jours. Paysages alpins magnifiques.",
+    "safety_tips": "Guide officiel OBLIGATOIRE depuis 2018. Bonne condition physique requise. Crampons nécessaires en hiver.",
+    "budget": "Guide + Mule + Refuge : env. 1000-1500 MAD"
+  },
+  {
+    "name": "Plat - Tajine",
+    "category": "Gastronomie",
+    "location": "Partout",
+    "description": "Ragoût cuit à l'étouffée dans un plat en terre. Variantes : Poulet-Citron (Mchermel), Agneau-Pruneaux (Mrouzia), Kefta-Œuf. Le secret est la cuisson lente.",
+    "safety_tips": "Le plat est très chaud. Mangez avec du pain (khobz), avec la main droite, dans votre 'triangle' devant vous.",
+    "budget": "40-90 MAD"
+  },
+  {
+    "name": "Plat - Couscous",
+    "category": "Gastronomie",
+    "location": "Partout",
+    "description": "Le repas sacré du vendredi midi. Semoule roulée main, 7 légumes, viande (bœuf ou poulet). Servi avec du babeurre (Lben).",
+    "safety_tips": "Difficile à trouver le soir ou les autres jours que le vendredi dans les vrais restaurants traditionnels.",
+    "budget": "50-100 MAD"
+  },
+  {
+    "name": "Plat - Pastilla (Bastilla)",
+    "category": "Gastronomie",
+    "location": "Fès (Spécialité)",
+    "description": "Feuilleté sucré-salé. Traditionnellement au pigeon (maintenant poulet), amandes, cannelle, sucre glace. Il existe une version fruits de mer.",
+    "safety_tips": "Plat de fête, assez riche. Un incontournable de la cuisine fassie.",
+    "budget": "80-150 MAD"
+  },
+  {
+    "name": "Plat - Tangia Marrakchia",
+    "category": "Gastronomie",
+    "location": "Marrakech",
+    "description": "Spécialité unique à Marrakech. Viande de bœuf/mouton, citron confit, smen, ail, cuit dans une jarre en terre dans les cendres du hammam pendant des heures.",
+    "safety_tips": "À commander chez un boucher dans la médina ou un restaurant spécialisé. Goût fort et confit.",
+    "budget": "150 MAD/kg"
+  },
+  {
+    "name": "Plat - Harira",
+    "category": "Gastronomie",
+    "location": "Partout",
+    "description": "Soupe marocaine riche (tomate, lentilles, pois chiches, céleri, viande). Plat de rupture du jeûne pendant le Ramadan, mais servie toute l'année.",
+    "safety_tips": "Souvent servie avec des dattes et 'Chebakia' (gâteau au miel). Repas complet et pas cher.",
+    "budget": "5-15 MAD"
+  },
+  {
+    "name": "Boisson - Thé à la Menthe",
+    "category": "Culture",
+    "location": "Partout",
+    "description": "Le 'Whisky Marocain'. Thé vert Gunpowder, menthe fraîche, beaucoup de sucre. Servi en hauteur pour l'aérer (le turban). Signe d'hospitalité.",
+    "safety_tips": "Ne refusez pas un thé offert, c'est impoli. Si vous le voulez sans sucre, demandez 'Bla Soukar' (difficile à obtenir).",
+    "budget": "10-20 MAD"
+  },
+  {
+    "name": "Petit Déjeuner Marocain",
+    "category": "Gastronomie",
+    "location": "Partout",
+    "description": "Très riche : Msemen (crêpe feuilletée), Baghrir (crêpe mille trous), Harcha (galette semoule), Huile d'olive, Amlou (pâte amande/argan/miel), Olives, Thé.",
+    "safety_tips": "Le meilleur repas de la journée. Essayez l'Amlou, le 'Nutella berbère'.",
+    "budget": "30-60 MAD"
+  },
+  {
+    "name": "Culture - Hammam",
+    "category": "Bien-être",
+    "location": "Partout",
+    "description": "Bain de vapeur traditionnel. Rituel : Savon noir (gommage), Kess (gant de crin), Ghassoul (argile). Lieu social important.",
+    "safety_tips": "Hammam public (populaire, non mixte, apporter son matériel) vs Hammam Spa (privé, touristique, tout fourni). La nudité est courante entre même sexe.",
+    "budget": "15 MAD (Public) / 200+ MAD (Spa)"
+  },
+  {
+    "name": "Transport - Petit Taxi",
+    "category": "Pratique",
+    "location": "Villes",
+    "description": "Couleur unique par ville (Beige Marrakech, Rouge Casa, Bleu Rabat). Pour trajets intra-muros. Max 3 personnes.",
+    "safety_tips": "Exigez le compteur ('Compteur Afak'). S'il refuse, descendez. Tarif nuit +50%.",
+    "budget": "10-30 MAD la course"
+  },
+  {
+    "name": "Transport - Grand Taxi",
+    "category": "Pratique",
+    "location": "Inter-villes",
+    "description": "Mercedes anciennes ou Dacia Lodgy. Trajets fixes. Partent quand complets (6 places).",
+    "safety_tips": "On est serré. Payez 2 places pour être à l'aise devant. Prix fixe par place.",
+    "budget": "Pas cher"
+  },
+  {
+    "name": "Transport - Train ONCF",
+    "category": "Pratique",
+    "location": "Nord & Centre",
+    "description": "Réseau fiable. TGV 'Al Boraq' (Tanger-Casa en 2h10). Lignes classiques Marrakech-Fès.",
+    "safety_tips": "Réservez sur oncf-voyages.ma. La 1ère classe garantit une place assise numérotée.",
+    "budget": "Abordable"
+  },
+  {
+    "name": "Sécurité - Faux Guides",
+    "category": "Sécurité",
+    "location": "Médinas (Fès/Marrakech)",
+    "description": "Des locaux vous abordent pour vous 'aider' car 'c'est fermé' ou 'c'est par là'. Ils veulent une commission.",
+    "safety_tips": "Ignorez-les. Ne dites rien, continuez à marcher. Utilisez Google Maps ou demandez aux commerçants assis.",
+    "budget": "0 MAD"
+  },
+  {
+    "name": "Négociation (Choukour)",
+    "category": "Culture",
+    "location": "Souks",
+    "description": "Pas de prix affiché = Négociation. C'est un jeu, pas un conflit. Divisez le prix par 3 pour commencer.",
+    "safety_tips": "Restez souriant. Si le prix ne va pas, partez poliment. Souvent on vous rappellera. Ne négociez pas si vous n'achetez pas.",
+    "budget": "Votre talent"
+  },
+  {
+    "name": "Langue - Mots Clés",
+    "category": "Pratique",
+    "location": "Partout",
+    "description": "Salam Aleykoum (Bonjour), Labas (Ça va), Choukran (Merci), Bchhal (Combien), Afak (S'il te plait), Wakha (D'accord), La (Non), Zwin (Joli/Bon).",
+    "safety_tips": "Quelques mots d'arabe changent totalement l'attitude des locaux envers vous.",
+    "budget": "Gratuit"
+  },
+  {
+    "name": "Argent & Pourboire",
+    "category": "Pratique",
+    "location": "Partout",
+    "description": "Dirham (MAD). Cash est roi. Pourboire (Bakchich) attendu dans les cafés (1-2 MAD), gardiens de voiture (2-3 MAD jour, 5-10 nuit), bagagistes (10-20 MAD).",
+    "safety_tips": "Ayez toujours de la monnaie (pièces). Les gros billets de 200 sont durs à casser.",
+    "budget": "Variable"
+  },
+  {
+    "name": "Saison idéale",
+    "category": "Climat",
+    "location": "Maroc",
+    "description": "Printemps (Mars-Mai) et Automne (Sept-Nov) sont parfaits partout. Été : Bien sur la côte (Essaouira/Tanger), insupportable à Marrakech/Fès/Désert (45°C). Hiver : Froid dans le désert et l'Atlas (neige).",
+    "safety_tips": "Ne sous-estimez pas le froid en hiver, les maisons sont mal isolées.",
+    "budget": "N/A"
+  }
+]

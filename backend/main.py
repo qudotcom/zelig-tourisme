@@ -1,67 +1,62 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import List, Optional
+
+# Import your services
+# Make sure rag_engine.py, translator.py, and security_agent.py exist in the backend folder
 from rag_engine import RAGService
-from translator import TerjmanService
+from translator import TerjmanService 
 from security_agent import SecurityAgent
 
-app = FastAPI(title="Marrakech AI API")
+app = FastAPI(title="ZELIG API - Digital Morocco")
 
-# Allow Frontend to talk to Backend
+# --- CORS CONFIGURATION (CRITICAL) ---
+# Allows the Frontend (port 5173) to talk to Backend (port 8001) without permission errors
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Initialize Services
-rag_service = RAGService()
-translator = TerjmanService()
-security_agent = SecurityAgent()
+# --- INITIALIZE AI ENGINES ---
+print("🚀 Starting ZELIG Engines...")
+rag_service = RAGService()        # The Tourist Guide
+translator = TerjmanService()     # The Translator
+security_agent = SecurityAgent()  # The Security Monitor
+print("✅ All Engines Ready.")
 
-# --- Models ---
+# --- DATA MODELS ---
 class ChatRequest(BaseModel):
     query: str
 
-class TranslateRequest(BaseModel):
+class TranslationRequest(BaseModel):
     text: str
-    target: str # 'darija' or 'english'
 
-class SecurityRequest(BaseModel):
-    location: str
+# --- API ENDPOINTS ---
 
-class SocialPost(BaseModel):
-    username: str
-    content: str
-    image_url: Optional[str] = "https://images.unsplash.com/photo-1597212618440-806262de4f6b?auto=format&fit=crop&q=80"
+@app.get("/")
+def home():
+    return {"status": "Online", "version": "Final"}
 
-# --- In-Memory DB for MVP ---
-social_feed = []
-
-# --- Endpoints ---
-
+# 1. Chat with Guide
 @app.post("/api/chat")
 async def chat(request: ChatRequest):
-    result = rag_service.get_answer(request.query)
-    return {"response": result['result']}
+    response = rag_service.get_answer(request.query)
+    return {"response": response["result"]}
 
+# 2. Translation (Terjman)
 @app.post("/api/translate")
-async def translate(request: TranslateRequest):
-    result = translator.translate(request.text, request.target)
-    return {"translation": result}
+async def translate_text(request: TranslationRequest):
+    print(f"📥 Translating: {request.text}")
+    if not request.text:
+        raise HTTPException(status_code=400, detail="Text provided is empty")
+    
+    translated_text = translator.translate(request.text)
+    return {"translation": translated_text}
 
-@app.post("/api/security")
-async def check_security(request: SecurityRequest):
-    return security_agent.check_safety(request.location)
-
-@app.get("/api/social")
-async def get_social():
-    return social_feed
-
-@app.post("/api/social")
-async def post_social(post: SocialPost):
-    social_feed.insert(0, post) # Add to top
-    return {"status": "success"}
+# 3. Security Check (New!)
+@app.get("/api/security/{city}")
+def check_security(city: str):
+    return security_agent.analyze(city)
