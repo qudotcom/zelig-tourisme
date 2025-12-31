@@ -39,7 +39,7 @@ Le projet est divisé en deux parties : un **Backend** (API Python) et un **Fron
 * **Orchestration IA** : LangChain 0.3 (Modern Stack)
 * **Vector Store** : ChromaDB (Local)
 * **Modèles** :
-    * LLM : `gemini-1.5-flash` (Google)
+    * LLM : `gemini-2.5-flash` (Google)
     * Embeddings : `all-MiniLM-L6-v2` (HuggingFace)
 * **Outils** : DuckDuckGo Search, DeepTranslator
 
